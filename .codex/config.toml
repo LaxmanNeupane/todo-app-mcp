@@ -1,0 +1,11 @@
+[mcp_servers.context7]
+command = "npx"
+args = ["-y", "context7-mcp"]
+
+[mcp_servers.notebooklm]
+command = "npx"
+args = ["-y", "notebooklm-mcp"]
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["-y", "playwright-mcp"]

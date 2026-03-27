@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "context7-mcp"]
+    },
+    "notebooklm": {
+      "command": "npx",
+      "args": ["-y", "notebooklm-mcp"]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "playwright-mcp"]
+    }
+  }
+}
