@@ -7,5 +7,5 @@ command = "npx.cmd"
 args = ["-y", "notebooklm-mcp"]
 
 [mcp_servers.playwright]
-command = "npx"
+command = "npx.cmd"
 args = ["-y", "playwright-mcp"]

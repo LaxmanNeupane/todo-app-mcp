@@ -1,15 +1,15 @@
 {
   "mcpServers": {
     "context7": {
-      "command": "npx",
-      "args": ["-y", "context7-mcp"]
+      "command": "npx.cmd",
+      "args": ["-y", "@upstash/context7-mcp"]
     },
     "notebooklm": {
-      "command": "npx",
+      "command": "npx.cmd",
       "args": ["-y", "notebooklm-mcp"]
     },
     "playwright": {
-      "command": "npx",
+      "command": "npx.cmd",
       "args": ["-y", "playwright-mcp"]
     }
   }
